@@ -12,4 +12,9 @@ html {
 
 h1 {
   font-style: "Dosis", sans-serif;
+	font size: 1.5rem
+}
+
+h2 {
+	display: inline-block;
 }
